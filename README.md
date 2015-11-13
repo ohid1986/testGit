@@ -1,2 +1,3 @@
 # testGit
-testing git work
+-------------
+This is a testGit file to show a minimum functionality and manuvers, etc.
